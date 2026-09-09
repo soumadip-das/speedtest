@@ -30,3 +30,5 @@ A simple browser-based internet bandwidth testing tool that continuously measure
 ## Note
 
 This project transfers real internet data. Continuous testing can consume a significant amount of your ISP's monthly data allowance or FUP.
+
+##  https://soumadip-das.github.io/speedtest/
